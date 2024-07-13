@@ -8,5 +8,4 @@ import lombok.Data;
 public class Anime {
     private String name;
     private Long id;
-
 }
